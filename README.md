@@ -1,5 +1,5 @@
 ## Language Detection Challenge
-#### *Martin K. Sova*
+#### <span style="color:blue">*Martin K. Sova*</span>
 
 ## The problem
 
